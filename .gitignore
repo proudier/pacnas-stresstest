@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 /target/
+=======
+>>>>>>> branch 'master' of https://github.com/proudier/pacnas-stresstest.git
 .idea/
 *.iml
 *.ipr
